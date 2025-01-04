@@ -18,6 +18,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <div className="flex flex-col min-h-screen dark:bg-gray-900 dark:text-white">
+
             <Header />
             <main className="flex-grow">
               {children}
