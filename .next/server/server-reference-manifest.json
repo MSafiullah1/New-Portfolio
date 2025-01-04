@@ -1,0 +1,17 @@
+{
+  "node": {
+    "40d4b92f36c9588b621e0a0bb9cc9f40a6919a1268": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmuhammadsafiullah%2FDesktop%2FLUMS%2FPortfolio%20Website%2Fsrc%2Factions%2FsendEmail.ts%22%2C%5B%5B%2240d4b92f36c9588b621e0a0bb9cc9f40a6919a1268%22%2C%22sendEmail%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "jqgBS/aEESsLD+Rw8KLTxTPetmxXkI2A8xwi31SjCLU="
+}
